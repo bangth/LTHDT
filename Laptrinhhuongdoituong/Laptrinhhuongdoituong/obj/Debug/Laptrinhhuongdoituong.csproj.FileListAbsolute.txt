@@ -40,3 +40,17 @@ C:\Users\Win 8.1 VS8 X64\Desktop\Laptrinhhuongdoituong\Laptrinhhuongdoituong\bin
 C:\Users\Win 8.1 VS8 X64\Desktop\Laptrinhhuongdoituong\Laptrinhhuongdoituong\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Win 8.1 VS8 X64\Desktop\Laptrinhhuongdoituong\Laptrinhhuongdoituong\bin\Debug\System.Data.SQLite.xml
 C:\Users\Win 8.1 VS8 X64\Desktop\Laptrinhhuongdoituong\Laptrinhhuongdoituong\obj\Debug\Laptrinhhuongdoituong.csprojResolveAssemblyReference.cache
+C:\Users\Win 8.1 VS8 X64\Desktop\LTHDT\Laptrinhhuongdoituong\Laptrinhhuongdoituong\bin\Debug\Laptrinhhuongdoituong.exe.config
+C:\Users\Win 8.1 VS8 X64\Desktop\LTHDT\Laptrinhhuongdoituong\Laptrinhhuongdoituong\obj\Debug\Laptrinhhuongdoituong.exe
+C:\Users\Win 8.1 VS8 X64\Desktop\LTHDT\Laptrinhhuongdoituong\Laptrinhhuongdoituong\obj\Debug\Laptrinhhuongdoituong.pdb
+C:\Users\Win 8.1 VS8 X64\Desktop\LTHDT\Laptrinhhuongdoituong\Laptrinhhuongdoituong\bin\Debug\Laptrinhhuongdoituong.exe
+C:\Users\Win 8.1 VS8 X64\Desktop\LTHDT\Laptrinhhuongdoituong\Laptrinhhuongdoituong\bin\Debug\Laptrinhhuongdoituong.pdb
+C:\Users\Win 8.1 VS8 X64\Desktop\LTHDT\Laptrinhhuongdoituong\Laptrinhhuongdoituong\bin\Debug\EntityFramework.dll
+C:\Users\Win 8.1 VS8 X64\Desktop\LTHDT\Laptrinhhuongdoituong\Laptrinhhuongdoituong\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Win 8.1 VS8 X64\Desktop\LTHDT\Laptrinhhuongdoituong\Laptrinhhuongdoituong\bin\Debug\System.Data.SQLite.dll
+C:\Users\Win 8.1 VS8 X64\Desktop\LTHDT\Laptrinhhuongdoituong\Laptrinhhuongdoituong\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Win 8.1 VS8 X64\Desktop\LTHDT\Laptrinhhuongdoituong\Laptrinhhuongdoituong\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Win 8.1 VS8 X64\Desktop\LTHDT\Laptrinhhuongdoituong\Laptrinhhuongdoituong\bin\Debug\EntityFramework.xml
+C:\Users\Win 8.1 VS8 X64\Desktop\LTHDT\Laptrinhhuongdoituong\Laptrinhhuongdoituong\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Win 8.1 VS8 X64\Desktop\LTHDT\Laptrinhhuongdoituong\Laptrinhhuongdoituong\bin\Debug\System.Data.SQLite.xml
+C:\Users\Win 8.1 VS8 X64\Desktop\LTHDT\Laptrinhhuongdoituong\Laptrinhhuongdoituong\obj\Debug\Laptrinhhuongdoituong.csprojResolveAssemblyReference.cache

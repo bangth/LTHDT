@@ -57,7 +57,7 @@ namespace Laptrinhhuongdoituong
 
         public void dangkynv(int stt)
         {
-            string filePath1 = @"C:\Users\Win 8.1 VS8 X64\Desktop\Laptrinhhuongdoituong\Laptrinhhuongdoituong\dulieu\dangkynv-bk.txt";
+            string filePath1 = @"dangkynv-bk.txt";
             string[] test1 = File.ReadAllLines(filePath1);// dọc từng dòng
            
             string[] sr = test1[stt + 1].Split('"');// bỏ dấu ngoặc kép
@@ -81,7 +81,7 @@ namespace Laptrinhhuongdoituong
                 { nguyenvong[dem, j + 1] = sr[i]; dem++; }
             }
             //doc file csdl
-            string filePath2 = @"C:\Users\Win 8.1 VS8 X64\Desktop\Laptrinhhuongdoituong\Laptrinhhuongdoituong\dulieu\csdl-bk.txt";
+            string filePath2 = @"csdl-bk.txt";
             string[] test2 = File.ReadAllLines(filePath2);//đọc từng dòng của file 
             string[] tr = test2[stt + 1].Split(',');// bỏ hết các dấu phảy 
              int m=tr.Length;

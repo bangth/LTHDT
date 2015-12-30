@@ -110,7 +110,7 @@ namespace Laptrinhhuongdoituong
         }
         public void Getdata(string sql)
         {
-            SQLiteConnection conn = new SQLiteConnection(@"Data Source = C:\Users\Win 8.1 VS8 X64\Desktop\Laptrinhhuongdoituong\ketqua\4.db");
+            SQLiteConnection conn = new SQLiteConnection(@"Data Source = C:\Users\Win 8.1 VS8 X64\Desktop\LTHDT\Laptrinhhuongdoituong\ketqua\4.db");
             conn.Open();
 
 
@@ -127,6 +127,7 @@ namespace Laptrinhhuongdoituong
             }
             catch (Exception ex)
             {
+                Console.WriteLine(ex.Message);
                 Console.Write("Loi");
             }
             cmd.Dispose();//Giải phóng bộ nhớ
